@@ -66,10 +66,6 @@ var_dump($info);
 // }
 
 
-
-
-
-
 ?>
 
 <!-- <h1><?php echo $info["name"]; ?></h1> -->
