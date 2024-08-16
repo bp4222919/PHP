@@ -2,6 +2,8 @@
 
 include("config.php");
 
+hello
+
 // $color = array("red","blue","pink","gary","black");
 
 // unset($color[2]);
